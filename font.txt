@@ -1,0 +1,496 @@
+.
+  
+  
+  
+  
+  
+  
+  
+  
+xx
+xx
+
+,
+  
+  
+  
+  
+  
+  
+  
+  
+xx
+xx
+ x
+x
+
+*
+      
+  xx  
+x xx x
+xxxxxx
+ xxxx 
+xxxxxx
+x xx x
+  xx  
+
+0
+  xx  
+ x  x
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ x  x
+  xx
+
+1
+  xx
+ xxx
+xxxx
+  xx
+  xx
+  xx
+  xx
+  xx
+  xx
+  xx
+
+3
+ xxxx 
+xx  xx
+    xx
+    xx
+  xxx
+    xx
+    xx
+    xx
+xx  xx
+ xxxx
+
+5
+xxxxxx
+xx
+xx
+xx
+xxxxx
+    xx
+    xx
+    xx
+xx  xx
+ xxxx
+
+8
+ xxxx 
+xx  xx
+xx  xx
+xx  xx
+ xxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ xxxx 
+
+4
+    xx
+   xxx
+  xxxx
+ xx xx
+xx  xx
+xx  xx
+xxxxxx
+    xx
+    xx
+    xx
+
+6
+ xxxx
+xx  xx
+xx
+xx
+xxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ xxxx
+
+7
+xxxxxx
+    xx
+    xx
+   xx
+   xx
+  xx
+  xx
+  xx
+  xx
+  xx
+
+A
+  xx  
+ x  x 
+xx  xx
+xx  xx
+xx  xx
+xxxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+
+a
+      
+      
+ xxxx
+xx  xx
+    xx
+ xxxxx
+xx  xx
+xx  xx
+xx  xx
+ xxxxx
+
+b
+xx
+xx
+xxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xxxxx
+
+C
+ xxxx
+xxxxxx
+xx  xx
+xx
+xx
+xx
+xx
+xx  xx
+xxxxxx
+ xxxx
+
+c
+      
+      
+ xxxx
+xx  xx
+xx
+xx
+xx
+xx
+xx  xx
+ xxxx
+
+
+d
+    xx
+    xx
+ xxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ xxxxx
+
+e
+      
+      
+ xxxx
+xx  xx
+xx  xx
+xxxxxx
+xx
+xx
+xx  xx
+ xxxx
+
+f
+  xx
+ xx 
+ xx 
+xxxx
+ xx 
+ xx 
+ xx 
+ xx 
+ xx 
+ xx 
+
+g
+      
+      
+ xxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ xxxxx
+    xx
+xx  xx
+ xxxx
+
+h
+xx
+xx
+xxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+
+i
+xx
+ 
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+
+K
+xx   xx
+xx  xx
+xx xx
+xxxx
+xxx
+xxx
+xxxx
+xx xx
+xx  xx
+xx   xx
+
+k
+xx    
+xx    
+xx  xx
+xx xx 
+xxxx  
+xxx   
+xxx   
+xxxx  
+xx xx 
+xx  xx
+
+l
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+
+M
+x     x
+xx   xx
+xxx xxx
+xxxxxxx
+xxxxxxx
+xx x xx
+xx   xx
+xx   xx
+xx   xx
+xx   xx
+
+m
+ 
+ 
+xxxxxxx 
+xx xx xx
+xx xx xx
+xx xx xx
+xx xx xx
+xx xx xx
+xx xx xx
+xx xx xx
+
+n
+     
+     
+xxxx 
+xx xx
+xx xx
+xx xx
+xx xx
+xx xx
+xx xx
+xx xx
+
+o
+      
+      
+ xxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ xxxx
+
+p
+      
+      
+xxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xxxxx
+xx
+xx
+
+R
+xxxxx
+xxxxxx
+xx  xx
+xx  xx
+xx  xx
+xxxxxx
+xxxxx
+xx xx
+xx  xx
+xx  xx
+
+r
+     
+     
+xx xx
+xxxxx
+xxx
+xx
+xx
+xx
+xx
+xx
+
+S
+ xxxx
+xx  xx
+xx
+xx
+ xxxx
+    xx
+    xx
+    xx
+xx  xx
+ xxxx
+
+s
+      
+      
+ xxxx 
+xx  xx
+xx    
+ xxxx 
+   xxx
+    xx
+xx  xx
+ xxxx 
+
+t
+ xx 
+ xx 
+xxxx
+ xx
+ xx
+ xx
+ xx
+ xx
+ xx
+  xx
+
+u
+      
+      
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ xxxx
+
+v
+      
+      
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+ xxxx 
+  xx  
+
+ä
+xx  xx
+      
+ xxxx
+xx  xx
+    xx
+ xxxxx
+xx  xx
+xx  xx
+xx  xx
+ xxxxx
+
+Å
+  xx
+ x  x
+  xx
+ x  x
+xx  xx
+xx  xx
+xxxxxx
+xx  xx
+xx  xx
+xx  xx
+
+å
+  xx
+ x  x
+  xx
+ xxxx
+xx  xx
+    xx
+ xxxxx
+xx  xx
+xx  xx
+ xxxxx
+
+ö
+xx  xx
+      
+ xxxx
+xxxxxx
+xx  xx
+xx  xx
+xx  xx
+xx  xx
+xxxxxx
+ xxxx
